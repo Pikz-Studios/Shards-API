@@ -1,7 +1,5 @@
 package bg.pikz.shards.api.events;
 
-import lombok.Getter;
-import lombok.Setter;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.Event;
@@ -13,12 +11,8 @@ public class ShardLoseEvent extends Event implements Cancellable {
     private static final HandlerList handlers = new HandlerList();
     private boolean cancelled = false;
 
-    @Getter
     private final Player player;
-    @Setter
-    @Getter
     private long amount;
-    @Getter
     private final LoseReason reason;
 
     public ShardLoseEvent(Player player, long amount, LoseReason reason) {
@@ -52,5 +46,21 @@ public class ShardLoseEvent extends Event implements Cancellable {
         PAYMENT_SENT,
         ADMIN_TAKE,
         OTHER
+    }
+
+    public void setAmount(long amount) {
+        this.amount = amount;
+    }
+
+    public Player getPlayer() {
+        return player;
+    }
+
+    public long getAmount() {
+        return amount;
+    }
+
+    public LoseReason getReason() {
+        return reason;
     }
 }

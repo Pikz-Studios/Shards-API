@@ -1,8 +1,6 @@
 package bg.pikz.shards.api;
 
 import bg.pikz.shards.api.interfaces.*;
-import lombok.Getter;
-
 import java.util.Collections;
 import java.util.Map;
 import java.util.UUID;
@@ -10,15 +8,20 @@ import java.util.UUID;
 public class ShardsAPIProvider {
 
     private static ShardsAPI instance;
-    @Getter
     private static ShardPlugin plugin;
 
-    /**
-     * Called by core module to register the plugin instance
-     */
+
     public static void register(ShardPlugin pluginInstance) {
         plugin = pluginInstance;
-        instance = null; // Reset instance so it gets recreated
+        instance = null;
+    }
+
+    public static ShardsAPI getInstance() {
+        return instance;
+    }
+
+    public static ShardPlugin getPlugin() {
+        return plugin;
     }
 
     public static ShardsAPI getAPI() {
