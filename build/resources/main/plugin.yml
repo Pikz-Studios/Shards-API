@@ -1,0 +1,4 @@
+name: api
+version: '2.0.0'
+main: bg.pikz.api.Api
+api-version: '1.19'
