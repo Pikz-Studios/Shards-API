@@ -1,0 +1,163 @@
+<changelist name="Uncommitted_changes_before_Update_at_29_12_2025_18_14_[Changes]" date="1767028490524" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_12_2025_18_14_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 29/12/2025 18:14 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="build/docs/javadoc/resource-files/glass.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/ShopAPI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.8/fileHashes/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/ShardsAPI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.8/checksums/checksums.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/DatabaseAPI.class.uniqueId11" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/ShardsAPIProvider.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/events/ShardLoseEvent.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/OfflineUserAPI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/GenMultiplayerAPI.class.uniqueId15" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/AFKManagerAPI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/LeaderboardAPI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/AFKManagerAPI.class.uniqueId2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/GenMultiplayerAPI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardsAPI.class.uniqueId3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.8/fileHashes/resourceHashesCache.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/events/ShardGainEvent$GainReason.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.8/executionHistory/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.8/fileChanges/last-build.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/docs/javadoc/legal/LICENSE" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/outputFiles.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/KillMultiplayerAPI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/ShardsAPIProvider$ShardsAPIImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardPlugin.class.uniqueId16" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardLoseEvent.class.uniqueId0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardGainEvent$GainReason.class.uniqueId1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardGainEvent.class.uniqueId8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/previous-compilation-data.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/events/ShardGainEvent.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/resources/main/.gitkeep" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/OfflineUserAPI.class.uniqueId12" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/OfflineUser.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShopAPI.class.uniqueId4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/OfflineUser.class.uniqueId7" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/libs/api-javadoc.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/docs/javadoc/resource-files/x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardsAPIProvider.class.uniqueId10" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/KillMultiplayerAPI.class.uniqueId13" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardsAPI.class.uniqueId5" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/LeaderboardAPI.class.uniqueId14" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardsAPIProvider$ShardsAPIImpl.class.uniqueId6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/interfaces/ShardPlugin.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/docs/javadoc/legal/COPYRIGHT" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/javadoc/javadoc.options" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/bg/pikz/shards/api/events/ShardLoseEvent$LoseReason.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/file-system.probe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/libs/api.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.8/executionHistory/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/compileTransaction/stash-dir/ShardLoseEvent$LoseReason.class.uniqueId9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/libs/api-sources.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.8/fileHashes/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/docs/javadoc/element-list" />
+  </binary>
+</changelist>
