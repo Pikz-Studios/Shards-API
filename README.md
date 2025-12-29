@@ -18,7 +18,7 @@ A developer API for integrating with the Shards economy plugin for Minecraft ser
     <dependency>
         <groupId>com.github.Pikz-Studios</groupId>
         <artifactId>Shards-API</artifactId>
-        <version>1.0.0</version>
+        <version>main-SNAPSHOT</version>
         <scope>provided</scope>
     </dependency>
 </dependencies>
@@ -32,7 +32,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly 'com.github.Pikz-Studios:Shards-API:1.0.0'
+    compileOnly 'com.github.Pikz-Studios:Shards-API:main-SNAPSHOT'
 }
 ```
 
