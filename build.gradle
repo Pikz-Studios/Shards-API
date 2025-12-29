@@ -3,8 +3,8 @@ plugins {
     id 'maven-publish'
 }
 
-group = 'bg.pikz.shards'
-version = rootProject.version
+group = 'com.github.Pikz-Studios'
+version = '1.0.0'
 
 repositories {
     mavenCentral()
@@ -28,8 +28,8 @@ publishing {
     publications {
         mavenJava(MavenPublication) {
             from components.java
-            groupId = project.group
-            artifactId = project.name
+            groupId = 'com.github.Pikz-Studios'
+            artifactId = 'Shards-API'
             version = project.version
         }
     }

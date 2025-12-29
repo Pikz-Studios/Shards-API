@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d996b183-e385-4bf2-bde3-7126dbf3c21f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gradle/8.10/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/8.10/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/8.10/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/8.10/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/8.10/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/8.10/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/8.10/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/8.10/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/8.10/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/8.10/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/8.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/8.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/8.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/8.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/8.10/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/8.10/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../core/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/ShardPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/ShardPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/command/ShardCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/command/ShardCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/library/util/License.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/library/util/License.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/listener/PlayerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/listener/PlayerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/listener/ShopListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/listener/ShopListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/manager/AFKManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/manager/AFKManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/manager/LeaderboardManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/manager/LeaderboardManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/manager/ShopManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/manager/ShopManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/model/GenMultiplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/model/GenMultiplayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/model/KillMultiplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/model/KillMultiplayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/model/OfflineUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/model/OfflineUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/model/shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/model/shop/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/task/ShardTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/task/ShardTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/util/License.java" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/java/bg/pikz/shards/util/License.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../core/src/main/resources/shop.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../core/src/main/resources/shop.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MrKammounYT&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Pikz-Studios/Shards.git&quot;,
+    &quot;accountId&quot;: &quot;4a2c1a96-a38a-4279-90a1-aed8236020f6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="37WmKTjwsAe83D64a1yBR324kNB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.api [build].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "android.gradle.sync.needed": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ahmed/IdeaProjects/Shards/api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.14550781",
+    "project.structure.side.proportion": "0.5241379",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="api [build]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.26775.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.26775.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d996b183-e385-4bf2-bde3-7126dbf3c21f" name="Changes" comment="" />
+      <created>1767027137825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767027137825</updated>
+      <workItem from="1767027138945" duration="420000" />
+      <workItem from="1767027930469" duration="359000" />
+      <workItem from="1767028296145" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
